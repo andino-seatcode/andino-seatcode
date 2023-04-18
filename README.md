@@ -1,4 +1,6 @@
-### Hi there 👋
+## Andino Boerst
+
+### Data Scientist
 
 <!--
 **andino-seatcode/andino-seatcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
