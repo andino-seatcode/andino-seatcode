@@ -1,6 +1,6 @@
-## Andino Boerst
+# Andino Boerst
 
-### Data Scientist
+## Data Scientist
 
 <!--
 **andino-seatcode/andino-seatcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Data Scientist @ SEAT:CODE.
+
+Private Account: [@andinoboerst](https://github.com/andinoboerst)
+
+
+[![Andino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andino-seatcode&show_icons=true&theme=gruvbox)](https://github.com/andino-seatcode)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andino-seatcode&show_icons=true&theme=gruvbox)](https://github.com/andino-seatcode)
