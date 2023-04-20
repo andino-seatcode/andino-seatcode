@@ -2,7 +2,7 @@
 
 ## Data Scientist
 
-Data Scientist @ SEAT:CODE.
+Data Scientist [@SEAT:CODE](https://github.com/seatcode).
 
 Private Account: [@andinoboerst](https://github.com/andinoboerst)
 
